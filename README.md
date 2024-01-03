@@ -1,0 +1,1 @@
+This document is "PDNet by PDConv : Better lightweight detector" code. The environment is configured in the readme document in the project, and the code is mainly changed in PDNet.py, which can be run by running train.py. The dataset is an open source dataset, which can be downloaded by yourself, and the download address is also shown in the paper.
